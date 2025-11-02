@@ -110,5 +110,6 @@ By merging blockchain-backed integrity with smooth, familiar gameplay, we aim to
 - Secure score submission  
 - Player–wallet mapping and record tracking  
 
-![alt text](Contract.png)
+<img width="1910" height="897" alt="Screenshot From 2025-11-02 16-22-44" src="https://github.com/user-attachments/assets/b0e98730-1dbc-4017-b30a-e764004c976a" />
+
 
